@@ -46,7 +46,7 @@
             <mxPoint x="389.5" y="-460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EQhhi7Qo-w2PrjP013Ni-113" value="Fill profile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EQhhi7Qo-w2PrjP013Ni-113" value="Fill profile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="330" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EQhhi7Qo-w2PrjP013Ni-114" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
